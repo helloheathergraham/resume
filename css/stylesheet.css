@@ -1,0 +1,101 @@
+div {
+}
+
+#header {
+	z-index: 1;
+	position: fixed;
+	width: 97.5%;
+	margin-top: -20px;
+	height: 80px;
+	background-color: #FFF;
+	margin-bottom: 10px;
+     letter-spacing: 1px;
+
+}
+
+#name {
+	margin-left: 80px;
+	padding-top: 5px;
+	font-size: 28px;
+	color: #000;
+    font-family: 'Fjalla One', sans-serif;
+    font-weight: normal;
+    text-transform: uppercase;
+
+    text-align: center;
+}
+
+#about{
+	float:right;
+	margin-right: 30px;
+	padding-top: 10px;
+	font-size: 13px;
+	font-family: 'Cantarell', sans-serif;
+    font-weight: 400;
+	color: #000;
+    line-height: 14px;
+    line-height: 17px;
+}
+
+h4 {
+	margin-left: 30px;
+    margin-right: 20px;
+	margin-bottom: 20px;
+    font-family: 'Cantarell', sans-serif;
+    font-weight: 700;
+    line-height: 23px;
+    text-transform: uppercase;
+    letter-spacing: -1px;
+    background-color: #FF2600;
+    padding: 2px;
+    color: #fff;
+}
+
+.right p {
+	margin-left: 30px;
+	margin-right: 20px;
+	margin-top: -10px;
+	font-family: 'Cantarell', sans-serif;
+    line-height: 23px;
+	color: #000000;
+}
+
+li {
+	list-style-type: square;
+    font-family: 'Cantarell', sans-serif;
+    font-size: 14px;
+    margin-left: 30px;
+}
+
+a:hover {
+
+}
+
+.right {
+	position: relative;
+	float: left;
+	margin-top:63px;
+	width: 99%;
+	background-color: #FFF;
+	margin-bottom: 3px;
+}
+
+#footer {
+	position: relative;
+	height: 50px;
+	font-size: 12px;
+	font-family: 'Cantarell', sans-serif;
+    font-weight: 400;
+
+	clear: both;
+	font-family: Verdana, sans-serif;
+
+	text-align: center;
+	color: #000;
+}
+
+#footer p {
+	position: relative;
+	padding-top: 35px;
+    padding-bottom: 35px;
+}
